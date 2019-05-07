@@ -1,7 +1,7 @@
 #ifndef MEM_H
 #define MEM_H
 
-#define MEMSZ 4096
+#define MEMSZ 512
 
 class Memory 
 {
