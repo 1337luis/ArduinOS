@@ -1,7 +1,7 @@
-#include "texts.h"
-#include "System.h"
-#include "IO.h"
 #include "Memory.h"
+#include "IO.h"
+#include "System.h"
+
 
 void setup() 
 {
@@ -11,5 +11,7 @@ void setup()
 
 void loop() 
 {
-
+  //MOSTRAR PROMPT
+  //LEER COMANDO
+  //INTERPRETAR COMANDO
 }
